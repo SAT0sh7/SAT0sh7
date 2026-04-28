@@ -1,8 +1,7 @@
-
 # SAT0sh7 🧪
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=$+whoami;S37o_0!!+-+Java+Student;$+learning...+Java,+OOP,+Git;Building+my+developer+path&center=true&width=500&height=45&color=9D4EDD">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=$+whoami;SAT0sh7+-+Java+Student;$+learning...+Java,+OOP,+Git;Building+my+developer+path&center=true&width=500&height=45&color=9D4EDD">
 </p>
 
 <p align="center">
@@ -11,15 +10,12 @@
 
 ---
 
-## ~/ About
+## ~/ About  
+system.location = Brazil  
+system.focus = technology & problem-solving  
+system.status = building programming fundamentals  
 
-🇧🇷 Based in Brazil
-
-💡 Passionate about technology and problem-solving
-
-📚 Currently focused on building a strong foundation in programming
-
-I’m at the beginning of my developer journey, learning step by step and improving every day. My main focus right now is **Java** and core programming concepts.
+ >I’m at the beginning of my developer journey, learning step by step and improving every day. My main focus right now is **Java** and core programming concepts.
 
 ---
 
@@ -63,15 +59,11 @@ I’m at the beginning of my developer journey, learning step by step and improv
 
 ---
 
-## ~/  Roadmap
-* 🚀 Build and publish real-world projects
-
-* 📚 Master Java fundamentals
-
-* 🧠 Improve problem-solving skills
-
-* 🤝 Contribute to open-source projects
-
+## ~/ Roadmap
+> build: real-world projects  
+> improve: Java fundamentals  
+> train: problem-solving  
+> contribute: open-source  
 ---
 
 ## ~/ Mindset
