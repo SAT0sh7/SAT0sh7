@@ -1,38 +1,36 @@
-# 👨‍💻 Hi there, I'm SAT0sh7 🚀
+<div align="center">
+
+# 👨‍💻 Hi there, I'm SAT0sh7
+
+### 🚀 Java Student | Aspiring Software Developer
+🇧🇷 **Brazil**
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Student;Aspiring+Software+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  I am starting my journey in software development, focused on learning and growing every day.  
+  Currently, I am diving deep into <b>Java</b> and the core fundamentals of programming.
 </p>
 
 ---
 
-## 🌎 About Me
+### 🧠 What I'm Learning
 
-🇧🇷 Based in Brazil
-💡 Passionate about technology and problem-solving
-📚 Currently focused on building a strong foundation in programming
-
-I’m at the beginning of my developer journey, learning step by step and improving every day. My main focus right now is **Java** and core programming concepts.
-
----
-
-## 🧠 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-Fundamentals-orange?style=for-the-badge&logo=openjdk">
-  <img src="https://img.shields.io/badge/Logic-Problem%20Solving-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Control%20Flow-Conditionals-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/OOP-Coming%20Soon-lightgrey?style=for-the-badge">
-</p>
+| Technology | Study Topics |
+| :--- | :--- |
+| ☕ **Java** | Fundamentals, Control Structures & Logic |
+| 🛠️ **Tools** | Git, GitHub & IntelliJ IDEA |
+| 📦 **Architecture** | Object-Oriented Programming (Coming soon) |
+| 🧩 **Solving** | Programming Logic & Algorithms |
 
 ---
 
-## ⚙️ Tech Stack
+### 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
 
 ---
 
@@ -45,36 +43,19 @@ I’m at the beginning of my developer journey, learning step by step and improv
 
 ---
 
-## 🎯 2026 Goals
+### 💡 Philosophy
 
-* 🚀 Build and publish real-world projects
-* 📚 Master Java fundamentals
-* 🧠 Improve problem-solving skills
-* 🤝 Contribute to open-source projects
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
+> — **Martin Fowler**
 
----
-
-## 💡 Philosophy
-
-> "Any fool can write code that a computer can understand.
-> Good programmers write code that humans can understand."
-> — Martin Fowler
-
-> "It does not matter how slowly you go as long as you do not stop."
-> — Confucius
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge"></a>
-</p>
+> "It does not matter how slowly you go as long as you do not stop."  
+> — **Confucius**
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring a repository <br>
-  🤝 I'm always open to learning, feedback, and collaboration
+  ⭐ If you like my work, feel free to star my repositories! <br>
+  🤝 Always open to learning, collaborating, and sharing ideas.
 </p>
+
+</div>
