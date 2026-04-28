@@ -9,7 +9,7 @@
 
 ---
 
-## 🌎 About Me
+## ~/ About
 
 🇧🇷 Based in Brazil
 
@@ -21,7 +21,7 @@ I’m at the beginning of my developer journey, learning step by step and improv
 
 ---
 
-## 🧠 Currently Learning
+## ~/ Current Focus 
 
 <p align="left">
 
@@ -39,7 +39,7 @@ I’m at the beginning of my developer journey, learning step by step and improv
 
 ---
 
-## ⚙️ Tech Stack
+## ~/ Stack
 
 <p align="center">
 
@@ -49,7 +49,7 @@ I’m at the beginning of my developer journey, learning step by step and improv
 
 ---
 
-## 📊 GitHub Stats
+## ~/ Stats
 
 <p align="center">
 
@@ -61,8 +61,7 @@ I’m at the beginning of my developer journey, learning step by step and improv
 
 ---
 
-## 🎯 2026 Goals
-
+## ~/  Roadmap
 * 🚀 Build and publish real-world projects
 
 * 📚 Master Java fundamentals
@@ -73,21 +72,17 @@ I’m at the beginning of my developer journey, learning step by step and improv
 
 ---
 
-## 💡 Philosophy
+## ~/ Mindset
 
-> "Any fool can write code that a computer can understand.
+> "Any fool can write code that a computer can understand.  
+> Good programmers write code that humans can understand."  
+> — Martin Fowler  
 
-> Good programmers write code that humans can understand."
-
-> — Martin Fowler
-
-> "It does not matter how slowly you go as long as you do not stop."
-
+> "It does not matter how slowly you go as long as you do not stop."  
 > — Confucius
-
 ---
 
-## 🤝 Let's Connect
+## ~/ Links
 
 <p align="center">
 
