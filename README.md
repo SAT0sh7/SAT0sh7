@@ -1,31 +1,28 @@
-<div align="center">
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=SAT0sh7&fontSize=40&fontColor=fff)
 
-# 👨‍💻 Hi there, I'm SAT0sh7
+![](https://komarev.com/ghpvc/?username=SAT0sh7&color=blue&style=for-the-badge)
 
-### 🚀 Java Student | Aspiring Software Developer
-🇧🇷 **Brazil**
+# Olá 👋, eu sou SAT0sh7
 
----
+🚀 **Estudante de Java | Desenvolvedor Iniciante**  
+🇧🇷 Brasil
 
-<p align="center">
-  I am starting my journey in software development, focused on learning and growing every day.  
-  Currently, I am diving deep into <b>Java</b> and the core fundamentals of programming.
-</p>
+Estou começando minha jornada no desenvolvimento de software, focado em aprender e crescer a cada dia.  
+Atualmente estudando **Java** e os fundamentos da programação.
 
 ---
 
-### 🧠 What I'm Learning
+## 🧠 O que estou aprendendo
 
-| Technology | Study Topics |
-| :--- | :--- |
-| ☕ **Java** | Fundamentals, Control Structures & Logic |
-| 🛠️ **Tools** | Git, GitHub & IntelliJ IDEA |
-| 📦 **Architecture** | Object-Oriented Programming (Coming soon) |
-| 🧩 **Solving** | Programming Logic & Algorithms |
+- ☕ Fundamentos de Java
+- 🔀 Estruturas condicionais e de controle
+- 🧩 Lógica e resolução de problemas
+- 🛠️ Git & GitHub
+- 📦 Orientação a objetos (em breve)
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -34,28 +31,20 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAT0sh7&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAT0sh7&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAT0sh7&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAT0sh7&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 💡 Philosophy
+## 🚀 Filosofia
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
-> — **Martin Fowler**
-
-> "It does not matter how slowly you go as long as you do not stop."  
-> — **Confucius**
+> _"Todo especialista já foi um iniciante.  
+> A jornada de mil milhas começa com um único passo."_
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, feel free to star my repositories! <br>
-  🤝 Always open to learning, collaborating, and sharing ideas.
-</p>
-
-</div>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
