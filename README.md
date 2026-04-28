@@ -1,50 +1,109 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=SAT0sh7&fontSize=40&fontColor=fff)
 
-![](https://komarev.com/ghpvc/?username=SAT0sh7&color=blue&style=for-the-badge)
+# 👨‍💻 Hi there, I'm SAT0sh7 🚀
 
-# Olá 👋, eu sou SAT0sh7
+<p align="center">
 
-🚀 **Estudante de Java | Desenvolvedor Iniciante**  
-🇧🇷 Brasil
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Student;Aspiring+Software+Developer;Always+Learning+New+Things&center=true&width=500&height=45&color=9D4EDD">
 
-Estou começando minha jornada no desenvolvimento de software, focado em aprender e crescer a cada dia.  
-Atualmente estudando **Java** e os fundamentos da programação.
-
----
-
-## 🧠 O que estou aprendendo
-
-- ☕ Fundamentos de Java
-- 🔀 Estruturas condicionais e de controle
-- 🧩 Lógica e resolução de problemas
-- 🛠️ Git & GitHub
-- 📦 Orientação a objetos (em breve)
-
----
-
-## 🛠️ Tecnologias
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAT0sh7&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAT0sh7&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Filosofia
+## 🌎 About Me
 
-> _"Todo especialista já foi um iniciante.  
-> A jornada de mil milhas começa com um único passo."_
+🇧🇷 Based in Brazil
+
+💡 Passionate about technology and problem-solving
+
+📚 Currently focused on building a strong foundation in programming
+
+I’m at the beginning of my developer journey, learning step by step and improving every day. My main focus right now is **Java** and core programming concepts.
 
 ---
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+## 🧠 Currently Learning
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Java-Fundamentals-7F00FF?style=for-the-badge&logo=openjdk&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Logic-Problem%20Solving-9D4EDD?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Control%20Flow-Conditionals-5A189A?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Git-Version%20Control-7B2CBF?style=for-the-badge&logo=git&logoColor=white">
+
+  <img src="https://img.shields.io/badge/OOP-Coming%20Soon-3C096C?style=for-the-badge">
+
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAT0sh7&show_icons=true&theme=github_dark&hide_border=true&title_color=7F00FF&icon_color=9D4EDD&text_color=CDB4DB&bg_color=0d1117" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAT0sh7&layout=compact&theme=github_dark&hide_border=true&title_color=7F00FF&text_color=CDB4DB&bg_color=0d1117" />
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build and publish real-world projects
+
+* 📚 Master Java fundamentals
+
+* 🧠 Improve problem-solving skills
+
+* 🤝 Contribute to open-source projects
+
+---
+
+## 💡 Philosophy
+
+> "Any fool can write code that a computer can understand.
+
+> Good programmers write code that humans can understand."
+
+> — Martin Fowler
+
+> "It does not matter how slowly you go as long as you do not stop."
+
+> — Confucius
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-5A189A?style=for-the-badge"></a>
+
+</p>
+
+---
+
+<p align="center">
+
+  ⭐ If you like my work, consider starring a repository <br>
+
+  🤝 I'm always open to learning, feedback, and collaboration
+
+</p>
+
