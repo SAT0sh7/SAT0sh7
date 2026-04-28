@@ -36,10 +36,11 @@ I’m at the beginning of my developer journey, learning step by step and improv
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAT0sh7&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAT0sh7&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAT0sh7&layout=compact&theme=tokyonight" />
 </p>
 
 ---
