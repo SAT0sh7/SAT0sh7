@@ -90,9 +90,9 @@ system.status = building programming fundamentals
 
 <p align="center">
 
-  ⭐ If you like my work, consider starring a repository <br>
+### ⭐ If you like my work, consider starring a repository <br>
 
-  🤝 I'm always open to learning, feedback, and collaboration
+### 🤝 I'm always open to learning, feedback, and collaboration
 
 </p>
 
