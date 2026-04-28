@@ -1,10 +1,12 @@
 
-# 👨‍💻 Hi there, I'm SAT0sh7 🚀
+# SAT0sh7 🧪
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=$+whoami;S37o_0!!+-+Java+Student;$+learning...+Java,+OOP,+Git;Building+my+developer+path&center=true&width=500&height=45&color=9D4EDD">
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Student;Aspiring+Software+Developer;Always+Learning+New+Things&center=true&width=500&height=45&color=9D4EDD">
-
+<p align="center">
+  <code>Java</code> • <code>Problem Solving</code> • <code>Git</code> • <code>OOP (in progress)</code>
 </p>
 
 ---
